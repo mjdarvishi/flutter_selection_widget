@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:selection/button.dart';
-import 'package:selection/model/box_decoration.dart';
-import 'package:selection/model/modal_decoration.dart';
+import 'package:selection_item/button.dart';
+import 'package:selection_item/model/box_decoration.dart';
+import 'package:selection_item/model/modal_decoration.dart';
 
 class ListSelection<T> extends StatefulWidget {
   String title;

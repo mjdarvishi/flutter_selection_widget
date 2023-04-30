@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:selection/example/test_model.dart';
-import 'package:selection/selection.dart';
+import 'package:selection_item/example/test_model.dart';
+import 'package:selection_item/selection.dart';
 
 void showSimpleString() {
   //show simple string

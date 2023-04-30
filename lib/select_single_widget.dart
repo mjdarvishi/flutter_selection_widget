@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:selection/model/box_decoration.dart';
+import 'package:selection_item/model/box_decoration.dart';
 
 class SingleSelection<T> extends StatefulWidget {
   String title;

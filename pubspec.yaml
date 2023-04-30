@@ -1,5 +1,5 @@
-name: selection
-description: A new Flutter project.
+name: selection_item
+description: This package is helping you to show a list of custom object and let user pick one or multiple items form it
 version: 0.0.1
 homepage: https://github.com/mjdarvishi
 
