@@ -82,5 +82,7 @@ selectCallBack: (itemSelected) {},
 //your items
 items:getTestModel);
 ```
+# NOTICE
+After setting SelectionBoxDecoration and SelectionModalDecoration you need to restart your app and if you just use hot reload you face to err.
 
 You can contribute on github https://github.com/mjdarvishi
